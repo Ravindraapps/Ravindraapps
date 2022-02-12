@@ -1,17 +1,17 @@
+<!-- <img src="https://static.vecteezy.com/system/resources/previews/001/410/877/non_2x/programming-and-coding-futuristic-banner-vector.jpg" alt=""> -->
+<img  src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Ravindra Pawar</h1>
-<h3 align="center">An Aspiring Full-Stack Web Developer from India</h3>
+<h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindraapps&label=Profile%20views&color=0e75b6&style=flat" alt="ravindraapps" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindraapps" alt="ravindraapps" /></a> </p>
-
-- 🌱 I’m currently learning **ReactJs, JavaScript, NodeJs, HTML, CSS, ExpressJs, MongoDB**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://ravindra-pawar-portfolioapp.netlify.app](https://ravindra-pawar-portfolioapp.netlify.app)
 
 - 📝 I regularly write articles on [https://medium.com/@errspawar93](https://medium.com/@errspawar93)
 
-- 💬 Ask me about **ReactJs, JavaScript, NodeJs, HTML, CSS**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **errspawar93@gmail.com**
 
@@ -32,3 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindraapps&show_icons=true&locale=en" alt="ravindraapps" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindraapps&" alt="ravindraapps" /></p>
