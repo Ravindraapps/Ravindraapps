@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ravindra-pawar-portfolioapp.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://pawar-ravindra-apps.netlify.app/)
 
 - 📝 I regularly write articles on this [Blog](https://medium.com/@errspawar93)
 
