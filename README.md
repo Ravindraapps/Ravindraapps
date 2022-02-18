@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://ravindra-pawar-portfolioapp.netlify.app](https://ravindra-pawar-portfolioapp.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ravindra-pawar-portfolioapp.netlify.app)
 
-- 📝 I regularly write articles on [https://medium.com/@errspawar93](https://medium.com/@errspawar93)
+- 📝 I regularly write articles on this [Blog](https://medium.com/@errspawar93)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **errspawar93@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1206TNFuUtILiIGAj5EkFD-UUv4DJYdkU/view?usp=sharing](https://drive.google.com/file/d/1206TNFuUtILiIGAj5EkFD-UUv4DJYdkU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1206TNFuUtILiIGAj5EkFD-UUv4DJYdkU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
