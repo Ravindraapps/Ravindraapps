@@ -1,5 +1,4 @@
-<!-- <img src="https://static.vecteezy.com/system/resources/previews/001/410/877/non_2x/programming-and-coding-futuristic-banner-vector.jpg" alt=""> -->
-<img  src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg" alt="">
+<img style="width:80%" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
 <h1 align="center">Hi 👋, I'm Ravindra Pawar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from India.</h3>
 
