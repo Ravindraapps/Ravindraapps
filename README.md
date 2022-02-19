@@ -1,4 +1,4 @@
-<img style="width:80%" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
+<img style="width:100%; height:450px;" class="img" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
 <h1 align="center">Hi 👋, I'm Ravindra Pawar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from India.</h3>
 
