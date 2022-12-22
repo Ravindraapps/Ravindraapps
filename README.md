@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindraapps&label=Profile%20views&color=0e75b6&style=flat" alt="ravindraapps" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently working as **software engineer** at ThinkSys.
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://pawar-ravindra-apps.netlify.app/)
 
 - 📝 I regularly write articles on this [Blog](https://medium.com/@errspawar93)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN & Pyhton, Django, Django Rest Framework**
 
-- 📫 How to reach me **errspawar93@gmail.com**
+- 📫 How to reach me **ravindrapawar1315@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1206TNFuUtILiIGAj5EkFD-UUv4DJYdkU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iOH6JxafroJKtaD8z8cu7K6krNY1YtXd/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
